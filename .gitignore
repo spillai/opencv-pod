@@ -1,0 +1,4 @@
+*.tar.gz
+pod-build
+build
+opencv
